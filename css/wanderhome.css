@@ -12,10 +12,11 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+    font-size: 1.75em;
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #555;
 }
 a:hover {
     text-decoration: underline;
@@ -23,6 +24,9 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+ul li {
+    font-size: 1.5em;
 }
 p {
     font-size: 1.5em;

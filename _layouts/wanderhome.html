@@ -3,9 +3,9 @@
   <head>
     <title>{{ page.title }}</title>
     <link rel="stylesheet" type="text/css" href="/css/wanderhome.css">
-    <link rel="icon" type="image/png" sizes="32x32" href="/RPGGames/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/RPGGames/favicon-16x16.png">
-    <link rel="shortcut icon" href="/RPGGames/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="/RPGGames/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/RPGGames/images/favicon-16x16.png">
+    <link rel="shortcut icon" href="/RPGGames/images/favicon.ico">
   </head>
   <body>
     <nav>
@@ -14,7 +14,11 @@
         <li><a href="/RPGGames/wanderhome">Wanderhome</a></li>
       </ul>
     </nav>
+
+    <img src="{{ page.image }}" alt="{{ page.title }}" width="200px" style="float:right"/>
+
     {{ content }} 
+
   </body>
 
 </html>
