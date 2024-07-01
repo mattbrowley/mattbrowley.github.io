@@ -1,6 +1,6 @@
 ---
-layout: pathfinder
-title: Role Playing Games
+layout: pathfinder_home
+title: Pathfinder 2nd Edition
 ---
 
 Pathfinder 2nd Edition
