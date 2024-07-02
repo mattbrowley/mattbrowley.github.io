@@ -12,16 +12,16 @@ See the options below for what sort of character you can play in the world of Wa
 
 * [The Caretaker](caretaker)
 * [The Dancer](dancer)
-* The Exile
-* The Firelight
-* The Fool
-* The Guardian
-* The Moth-Tender
-* The Peddler
-* The Pilgrim
-* The Poet
-* The Ragamuffin
-* The Shepherd
+* [The Exile](exile)
+* [The Firelight](firelight)
+* [The Fool](fool)
+* [The Guardian](guardian)
+* [The Moth-Tender](mothtender)
+* [The Peddler](peddler)
+* [The Pilgrim](pilgrim)
+* [The Poet](poet)
+* [The Ragamuffin](ragamuffin)
+* [The Shepherd](shepherd)
 * The Teacher
 * The Vagabond
 * The Veteran
