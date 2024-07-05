@@ -22,7 +22,6 @@ See the options below for what sort of character you can play in the world of Wa
 * [The Poet](poet)
 * [The Ragamuffin](ragamuffin)
 * [The Shepherd](shepherd)
-* The Teacher
-* The Vagabond
-* The Veteran
-
+* [The Teacher](teacher)
+* [The Vagabond](vagabond)
+* [The Veteran](veteran)

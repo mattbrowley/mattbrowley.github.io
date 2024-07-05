@@ -10,6 +10,6 @@ Pathfinder is a combat and adventure game in the tradition of "Dungeons and Drag
 
 See the options below for what kind of character you can play in Pathfinder
 
-* Fighter
-* Bard
-
+* [Bard](bard)
+* [Fighter](fighter)
+* [Barbarian](barbarian)
