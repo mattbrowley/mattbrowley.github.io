@@ -10,6 +10,21 @@ Pathfinder is a combat and adventure game in the tradition of "Dungeons and Drag
 
 See the options below for what kind of character you can play in Pathfinder
 
-* [Bard](bard)
-* [Fighter](fighter)
+* [Alchemist](alchemist)
 * [Barbarian](barbarian)
+* [Bard](bard)
+* [Champion](champion)
+* [Cleric](cleric)
+* [Druid](druid)
+* [Fighter](fighter)
+<!-- * Investigator not core -->
+<!-- * Oracle not core -->
+<!-- * Psychic not core -->
+<!-- * Magus not core -->
+* [Monk](monk)
+* [Ranger](ranger)
+* [Rogue](rogue)
+<!-- * Summoner not core -->
+* [Sorcerer](sorcerer)
+<!-- * Swashbuckler not core -->
+* [Wizard](wizard)

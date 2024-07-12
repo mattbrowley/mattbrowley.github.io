@@ -13,7 +13,7 @@ You are a master of artistry, a scholar of hidden secrets, and a captivating per
 
 You use magical performances to alter the odds in favor of your allies. You confidently alternate between attacks, healing, and helpful spells as needed.
 
-During Social Encounters...
+**During Social Encounters...**
 
 You persuade, prevaricate, and threaten with ease.
 
