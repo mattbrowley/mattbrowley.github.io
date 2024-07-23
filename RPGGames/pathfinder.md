@@ -28,3 +28,5 @@ See the options below for what kind of character you can play in Pathfinder
 * [Sorcerer](sorcerer)
 <!-- * Swashbuckler not core -->
 * [Wizard](wizard)
+
+If you want to learn more about the rules you can either read the [player's guide](https://2e.aonprd.com/PlayersGuide.aspx) at Archives of Nethys or watch this [introductory video playlist](https://www.youtube.com/playlist?list=PLn3PApm8tx0c07YnP3Rztn4MX7ztnWuLx).
