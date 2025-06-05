@@ -31,4 +31,5 @@ See the options below for what kind of character you can play in Pathfinder
 * [Witch](witch)
 * [Wizard](wizard)
 
-If you want to learn more about the rules you can either read the [player's guide](https://2e.aonprd.com/PlayersGuide.aspx) at Archives of Nethys or watch this [introductory video playlist](https://www.youtube.com/playlist?list=PLn3PApm8tx0c07YnP3Rztn4MX7ztnWuLx).
+If you want to learn more about the rules you can either read the [player's guide](https://2e.aonprd.com/PlayersGuide.aspx){:target="_blank"}
+ at Archives of Nethys or watch this [introductory video playlist](https://www.youtube.com/playlist?list=PLn3PApm8tx0c07YnP3Rztn4MX7ztnWuLx){:target="_blank"}.
