@@ -5,7 +5,7 @@ image: images/alchemist.png
 sheet: sheets/alchemist.pdf
 ---
 
-Everything about the Alchemist: [Archives of Nethys](https://2e.aonprd.com/Classes.aspx?ID=1){:target="_blank"}
+Everything about the Alchemist: [Archives of Nethys](https://2e.aonprd.com/Classes.aspx?ID=56){:target="_blank"}
 
 There’s no sight more beautiful to you than a strange brew bubbling in a beaker, and you consume your ingenious elixirs with abandon. You’re fascinated by uncovering the secrets of science and the natural world, and you’re constantly experimenting in your lab or on the go with inventive concoctions for every eventuality. You are fearless in the face of risk, hurling explosive or toxic creations at your foes. Your unique path toward greatness is lined with alchemical brews that push your mind and body to their limits.
 

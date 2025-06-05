@@ -17,8 +17,8 @@ See the options below for what kind of character you can play in Pathfinder
 * [Cleric](cleric)
 * [Druid](druid)
 * [Fighter](fighter)
-<!-- * Investigator not core -->
-<!-- * Oracle not core -->
+* [Investigator](investigator)
+* [Oracle](oracle)
 <!-- * Psychic not core -->
 <!-- * Magus not core -->
 * [Monk](monk)
@@ -26,7 +26,9 @@ See the options below for what kind of character you can play in Pathfinder
 * [Rogue](rogue)
 <!-- * Summoner not core -->
 * [Sorcerer](sorcerer)
-<!-- * Swashbuckler not core -->
+<!-- * Swashbuckler pc2 -->
+* [Swashbuckler](swashbuckler)
+* [Witch](witch)
 * [Wizard](wizard)
 
 If you want to learn more about the rules you can either read the [player's guide](https://2e.aonprd.com/PlayersGuide.aspx) at Archives of Nethys or watch this [introductory video playlist](https://www.youtube.com/playlist?list=PLn3PApm8tx0c07YnP3Rztn4MX7ztnWuLx).
